@@ -1,0 +1,15 @@
+{
+  "name": "temperature-tile-card",
+  "private": true,
+  "description": "Tuile température Home Assistant teintée par une échelle absolue ou relative « maison ».",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "check": "node --check temperature-tile-card.js",
+    "test": "node --test",
+    "preview": "node scripts/render-preview.js"
+  }
+}

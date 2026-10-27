@@ -1,0 +1,5 @@
+{
+  "name": "Temperature Tile Card",
+  "filename": "temperature-tile-card.js",
+  "homeassistant": "2024.11.0"
+}

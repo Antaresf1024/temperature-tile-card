@@ -1,0 +1,4 @@
+# La carte est servie telle quelle par Home Assistant : fins de ligne LF partout,
+# quel que soit le réglage core.autocrlf du poste.
+* text=auto eol=lf
+*.png binary

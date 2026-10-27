@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="484" height="192" viewBox="0 0 484 192">
+  <style>
+    svg { --primary-text-color: #e1e1e1; --secondary-text-color: #9b9b9b; }
+    text { font-family: Inter, Roboto, Arial, sans-serif; }
+  </style>
+  <rect width="484" height="192" rx="14" fill="#1c1c1c"/>
+  <g transform="translate(16 16)">
+      <defs><clipPath id="tt-clip-apercu-0"><rect width="220" height="74" rx="17"/></clipPath></defs>
+      <g clip-path="url(#tt-clip-apercu-0)">
+        <rect width="220" height="74" fill="rgb(155,193,203)"/>
+        <text x="110.0" y="34.0" font-size="26.00" font-weight="600" text-anchor="middle" fill="#16232e" paint-order="stroke" stroke="rgba(255,255,255,.4)" stroke-width="0.6" stroke-linejoin="round">3.5°</text>
+        <text x="110.0" y="54.8" font-size="10.50" font-weight="600" letter-spacing=".6" text-anchor="middle" fill="#33414c" paint-order="stroke" stroke="rgba(255,255,255,.4)" stroke-width="0.6" stroke-linejoin="round">TERRASSE</text>
+      </g>
+  </g>
+  <g transform="translate(248 16)">
+      <defs><clipPath id="tt-clip-apercu-1"><rect width="220" height="74" rx="17"/></clipPath></defs>
+      <g clip-path="url(#tt-clip-apercu-1)">
+        <rect width="220" height="74" fill="rgb(236,209,180)"/>
+        <text x="110.0" y="34.0" font-size="26.00" font-weight="600" text-anchor="middle" fill="#16232e" paint-order="stroke" stroke="rgba(255,255,255,.4)" stroke-width="0.6" stroke-linejoin="round">18.5°</text>
+        <text x="110.0" y="54.8" font-size="10.50" font-weight="600" letter-spacing=".6" text-anchor="middle" fill="#33414c" paint-order="stroke" stroke="rgba(255,255,255,.4)" stroke-width="0.6" stroke-linejoin="round">BUREAU</text>
+      </g>
+  </g>
+  <g transform="translate(16 102)">
+      <defs><clipPath id="tt-clip-apercu-2"><rect width="220" height="74" rx="17"/></clipPath></defs>
+      <g clip-path="url(#tt-clip-apercu-2)">
+        <rect width="220" height="74" fill="rgb(230,159,134)"/>
+        <text x="110.0" y="34.0" font-size="26.00" font-weight="600" text-anchor="middle" fill="#16232e" paint-order="stroke" stroke="rgba(255,255,255,.4)" stroke-width="0.6" stroke-linejoin="round">27.0°</text>
+        <text x="110.0" y="54.8" font-size="10.50" font-weight="600" letter-spacing=".6" text-anchor="middle" fill="#33414c" paint-order="stroke" stroke="rgba(255,255,255,.4)" stroke-width="0.6" stroke-linejoin="round">VÉRANDA</text>
+      </g>
+  </g>
+  <g transform="translate(248 102)">
+      <defs><clipPath id="tt-clip-apercu-3"><rect width="220" height="74" rx="17"/></clipPath></defs>
+      <g clip-path="url(#tt-clip-apercu-3)">
+        <rect width="220" height="74" fill="rgba(127,127,127,.14)"/>
+        <text x="110.0" y="34.0" font-size="26.00" font-weight="600" text-anchor="middle" fill="var(--primary-text-color)">—</text>
+        <text x="110.0" y="54.8" font-size="10.50" font-weight="600" letter-spacing=".6" text-anchor="middle" fill="var(--secondary-text-color)">CAVE</text>
+      </g>
+  </g>
+</svg>
