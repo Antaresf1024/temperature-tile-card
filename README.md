@@ -48,7 +48,7 @@ Home Assistant 2024.11 ou plus récent.
 1. Copiez `temperature-tile-card.js` dans le dossier `www` de votre
    configuration Home Assistant (`/config/www/`).
 2. Dans **Paramètres → Tableaux de bord → ⋮ → Ressources**, ajoutez la
-   ressource `/local/temperature-tile-card.js?v=2.0.0` de type
+   ressource `/local/temperature-tile-card.js?v=1.0.0` de type
    **Module JavaScript**.
 3. Rechargez la page du navigateur.
 

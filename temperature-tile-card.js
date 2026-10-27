@@ -10,7 +10,7 @@
  * Ressource Lovelace de type « module ».
  */
 
-const CARD_VERSION = '2.0.0';
+const CARD_VERSION = '1.0.0';
 const DEFAULT_HEATING_ICON = 'mdi:radiator';
 
 /* ===========================================================================
